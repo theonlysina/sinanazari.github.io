@@ -1,0 +1,3 @@
+coffee: 7.57
+clothes: 45.0
+food: 5.0
