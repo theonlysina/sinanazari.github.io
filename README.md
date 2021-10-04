@@ -1,4 +1,4 @@
-# Sina Nazari's Python Portfolio on GItHub
+# Sina Nazari's Python Portfolio on GitHub
 This is Sina Nazari's python portfolio. <br/> <br/>
 For the full portfolio, please visit: <br/>
 https://github.com/theonlysina/theonlysina.github.io
